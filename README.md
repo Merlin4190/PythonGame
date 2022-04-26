@@ -1,6 +1,6 @@
-PythonGame StoryLine
+# PythonGame StoryLine
 
-You find yourself standing in an open field, filled with grass and yellow wildflowers.
+## You find yourself standing in an open field, filled with grass and yellow wildflowers.
 Rumor has it that a troll is somewhere around here, and has been terrifying the nearby village.
 In front of you is a house.
 To your right is a dark cave.
